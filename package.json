@@ -1,0 +1,25 @@
+{
+  "name": "f1-circle",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "d3-array": "^3.2.4",
+    "d3-axis": "^3.0.0",
+    "d3-brush": "^3.0.0",
+    "d3-fetch": "^3.0.1",
+    "d3-scale": "^4.0.2",
+    "d3-selection": "^3.0.0",
+    "d3-zoom": "^3.0.0",
+    "gsap": "^3.12.5",
+    "vite": "^5.2.0"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4"
+  }
+}
